@@ -1,0 +1,28 @@
+[1nhX5R7zmAas#0] ^*atmeso$
+[/1nhX5R7zmAas]
+[5b8fA8rP9q3w#0] ^in<pr><acc>$ ^der<det><def><nt><sg><acc>$
+[/5b8fA8rP9q3w]
+[5qiol8YCmVik#0] ^*genäh$
+[/5qiol8YCmVik]
+[EyuotRJin4VX#0] ^manche<adj><sint><comp><attr>$
+[/EyuotRJin4VX]
+[IxV2HifTJQuD#0] ^frieren<vblex><pii><p2><pl><heur>$
+[/IxV2HifTJQuD]
+[bE2yJtM4HxHV#0] ^*Schafub$
+[/bE2yJtM4HxHV]
+[bREbmLMWWY_f#0] ^von<pr><dat>$ ^der<det><def><m><sg><dat>$
+[/bREbmLMWWY_f]
+[fTeEr6VxppSJ#0] ^frieren<vblex><pp><heur>$
+[/fTeEr6VxppSJ]
+[jhrIWHfTrdTd#0] ^haben<vbhaver><pri><p1><sg>$
+[/jhrIWHfTrdTd]
+[kfizgGpT-q6O#0] ^haben<vbhaver><pri><p1><sg>$
+[/kfizgGpT-q6O]
+[kpJjSL3XoB_g#0] ^frieren<vblex><pp><heur>$
+[/kpJjSL3XoB_g]
+[qJjfIr_HShri#0] ^in<pr><dat>$ ^der<det><def><m><sg><dat>$
+[/qJjfIr_HShri]
+[rVnuvE4jjE5I#0] ^Jahr<n><nt><sg><gen>$
+[/rVnuvE4jjE5I]
+[zcSu5BIJz-K4#0] ^frieren<vblex><pri><p3><sg>$
+[/zcSu5BIJz-K4]
